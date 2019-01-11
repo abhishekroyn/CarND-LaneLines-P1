@@ -22,10 +22,6 @@ The goals / steps of this project are the following:
 [image5]: ./test_images_output/solidYellowLeft.jpg
 [image6]: ./test_images_output/whiteCarLaneSwitch.jpg
 
-[video1]: ./test_videos_output/solidWhiteRight.mp4
-[video2]: ./test_videos_output/solidYellowLeft.mp4
-[video3]: ./test_videos_output/challenge.mp4
-
 ---
 
 ### Reflection
@@ -49,12 +45,6 @@ The output images usinig modified draw_lines() function are shown below:
 ![alt text][image4]
 ![alt text][image5]
 ![alt text][image6]
-
-The output video usinig modified draw_lines() function are shown below: 
-
-![alt text][video1]
-![alt text][video2]
-![alt text][video3]
 
 
 ### 2. Identify potential shortcomings with your current pipeline
